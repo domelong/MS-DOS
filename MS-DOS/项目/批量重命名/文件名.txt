@@ -1,0 +1,5 @@
+ASSOC->a1
+ATTRIB->a2
+BREAK->a3
+BCDEDIT->a4
+CACLS->a5
